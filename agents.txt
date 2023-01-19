@@ -1,0 +1,6 @@
+RandomAgent ali 1
+RandomAgent naghi 2
+RandomAgent kuber 1
+RandomAgent nars 2
+RandomAgent huze 1
+RandomAgent alex 2

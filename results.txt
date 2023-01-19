@@ -1,0 +1,27 @@
+PentagoTournament: 11/09/2022 00:40:08 
+No of agents = 8 
+No of repetitions = 1 
+
+
+Round 1 :
+    Match 1 : ali vs naghi , Winner : naghi, 1-0 
+    Match 2 : kuber vs nars , Winner : nars, 1-0 
+    Match 3 : huze vs alex , Winner : alex, 1-0 
+    Match 4 : Ronald vs Paulette , Winner : Paulette, 1-0 
+
+Round 2 :
+    Match 1 : naghi vs nars , Winner : nars, 1-0 
+    Match 2 : alex vs Paulette , Winner : Paulette, 1-0 
+
+Round 3 :
+    Match 1 : nars vs Paulette , Winner : Paulette, 1-0 
+
+Ranking : 
+    1. Paulette (Champion!) 
+    2. nars (Second Place!) 
+    3. alex (Third Place!) 
+    4. naghi 
+    5. ali 
+    5. kuber 
+    5. huze 
+    5. Ronald 
